@@ -1,0 +1,24 @@
+.navbar{
+  width: 90%;
+  height: 12vh;
+  background-color: rgb(41, 38, 38);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 75px 0 75px;
+}
+.input{
+  width: 250px;
+  height: 20px;
+  border-radius: 5px;
+  border: none;
+}
+.ecom{
+  color: rgb(161, 72, 72);
+}
+.cart{
+  color: rgb(241, 215, 215);
+}
+.cart-icon{
+  color:white;
+}

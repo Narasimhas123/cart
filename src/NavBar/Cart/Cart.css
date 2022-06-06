@@ -1,0 +1,28 @@
+.cart-div{
+  margin: 20px 50px  0px 50px;
+
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.cart-img, img{
+  width: 160px;
+  height: 160px;
+}
+.cart-name{
+  font-size: 15px;
+  position: absolute;
+  left: 100px;
+  top: 0;
+}
+.cart-price, .quantity{
+  margin-top: 50px;
+  
+}
+.cart-input{
+  width: 20px;
+}
+.plus, .minuze{
+  width: 20px;
+  margin: 0px 10px 0px 10px;
+}

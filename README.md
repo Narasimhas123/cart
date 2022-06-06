@@ -1,2 +1,2 @@
-# cart
+# mantra-ecom
 Created with CodeSandbox
